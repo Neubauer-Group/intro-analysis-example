@@ -2,7 +2,7 @@
 # Book settings
 title: Introduction to Data Analysis
 author: Neubauer Group Lab
-logo: .book/logo.png
+logo: assets/logo.png
 
 # HTML-specific settings
 html:
@@ -14,11 +14,12 @@ html:
 # Information about where the book exists on the web
 repository:
   url: https://github.com/Neubauer-Group/intro-analysis-example
+  path_to_book: book
   branch: master
 
 # Launch button settings
 launch_buttons:
-  notebook_interface: classic
+  notebook_interface: jupyterlab
   binderhub_url: https://mybinder.org
   colab_url: https://colab.research.google.com
 

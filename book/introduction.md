@@ -2,7 +2,8 @@
 
 Examples of basics of data analysis in Python (aimed at University students)
 
-[![Deploy Jupyter Book](https://github.com/Neubauer-Group/intro-analysis-example/workflows/Deploy%20Jupyter%20Book/badge.svg?branch=master)](https://github.com/Neubauer-Group/intro-analysis-example/actions?query=workflow%3A%22Deploy+Jupyter+Book%22+branch%3Amaster)
+To run the example interactively on the web click the "launch Binder" button below
+
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Neubauer-Group/intro-analysis-example/master?urlpath=lab/tree/book/example.ipynb)
 
 ## Environment Used

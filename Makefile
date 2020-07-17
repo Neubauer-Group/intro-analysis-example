@@ -1,9 +1,9 @@
-default: book
+all: build
 
-book: _config.yml _toc.yml
-	jupyter-book build .
+defualt: build
 
-clean:
-	if [ -d _build ]; then rm -rf _build; fi
+build:
+	jupyter-book build book/
 
-clean_book: clean book
+clean: book/_build
+	rm -rf book/_build
